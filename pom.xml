@@ -25,7 +25,7 @@
             <releases>
                 <enabled>true</enabled>
             </releases>
-            <!-- 是否开启快照版构件下载 -->
+            <!-- 是否开启快照版构件下载                                                                            -->
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
